@@ -8,7 +8,7 @@ using System.Text;
  {
         static void Main(string[] args)
         {
-            System.Console.WriteLine("Hello, World!");
+            System.Console.WriteLine("Hello My Name Is Hadi");
         }
  }
 
